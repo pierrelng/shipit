@@ -1,0 +1,11 @@
+{
+  "name": "shipit",
+  "version": "1.0.0",
+  "description": "Testing ground for the Shipit package",
+  "main": "shipitfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro",
+  "license": "ISC"
+}
